@@ -1,0 +1,11 @@
+hiscores with json formatting
+collision detection
+menu with options - pause game - controls - resolution
+spriteSheet sheet loader -
+offscreen object spawning
+power ups
+
+-enter name at play
+-upgrades on kills
+
+
